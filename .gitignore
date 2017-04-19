@@ -1,0 +1,8 @@
+bin
+*.db
+*.DS_Store
+RECOVER_*
+*.hash
+KEY
+certificates
+Export/*
