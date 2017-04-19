@@ -1,0 +1,3 @@
+[submodule "libs/actuate"]
+	path = libs/actuate
+	url = git@github.com:openfl/actuate.git
