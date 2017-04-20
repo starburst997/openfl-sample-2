@@ -15,10 +15,10 @@
       "folder": "libs/actuate"
     },{
       "name": "openfl",
-      "version": "4.9.2"
+      "version": "3.6.1"
     },{
       "name": "lime",
-      "version": "4.0.3"
+      "version": "2.9.1"
     },{
       "name": "hxcpp",
       "version": "3.4.64"
