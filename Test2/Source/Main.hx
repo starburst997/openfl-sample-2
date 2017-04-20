@@ -12,7 +12,7 @@ class Main extends Sprite {
 
 		super ();
 
-		trace("TEST5");
+		trace("TEST6");
 
 		var cat = Assets.getMovieClip ("library:NyanCatAnimation");
 		addChild (cat);
