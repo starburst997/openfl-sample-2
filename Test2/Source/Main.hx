@@ -6,16 +6,18 @@ import openfl.Assets;
 
 
 class Main extends Sprite {
-	
-	
+
+
 	public function new () {
-		
+
 		super ();
-		
+
+		trace("TEST1");
+
 		var cat = Assets.getMovieClip ("library:NyanCatAnimation");
 		addChild (cat);
-		
+
 	}
-	
-	
+
+
 }
