@@ -1,6 +1,5 @@
 {
   "haxe": "3.4.2",
-  "legacy": true,
   "projects":
   [
     {
@@ -15,10 +14,10 @@
       "folder": "libs/actuate"
     },{
       "name": "openfl",
-      "version": "3.6.1"
+      "version": "4.9.2"
     },{
       "name": "lime",
-      "version": "2.9.1"
+      "version": "4.0.3"
     },{
       "name": "hxcpp",
       "version": "3.4.64"
