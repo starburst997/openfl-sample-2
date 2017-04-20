@@ -1,5 +1,6 @@
 {
   "haxe": "3.4.2",
+  "legacy": true,
   "projects":
   [
     {
