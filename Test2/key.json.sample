@@ -1,5 +1,8 @@
 {
   "password": "123456",
   "alias": "test",
-  "aliasPassword": "123456"
+  "aliasPassword": "123456",
+  "identity": "XXXX",
+  "publisher": "CN=XXXXXX",
+  "family": "XXXXXX
 }
