@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project>
 
-	<meta title="Nyan Cat" package="com.failsafegames.app-test2" version="1.0.12" company="FailSafe Games" />
+	<meta title="Nyan Cat" package="com.failsafegames.app-test2" version="1.0.13" company="FailSafe Games" />
 	<app main="Main" path="Export" file="NyanCat" />
 
   <meta package="com.failsafegames.mac-test2" if="mac" />
