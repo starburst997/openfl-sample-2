@@ -5,6 +5,7 @@
 	<app main="Main" path="Export" file="NyanCat" />
 
   <meta package="com.failsafegames.mac-test2" if="mac" />
+  <meta package="com.failsafegames.droidtest2" if="android" />
 
 	<window width="400" height="400" fps="30" />
 
